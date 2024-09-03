@@ -1,4 +1,5 @@
-### DESAFIO: Git reset
+
+<h1 align="center">Git reset</h1>
 
 Você deve clonar o projeto do professor, excluir alguns commits, fazer algumas modificações no projeto
 e depois salvar o projeto no seu Github conforme passos abaixo.
