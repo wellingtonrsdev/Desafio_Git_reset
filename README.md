@@ -13,4 +13,5 @@ novo commit "Página Angular".
 repositório remoto que você criou, daí salve o projeto nesse novo repositório remoto.
 A página de commits do seu novo repositório remoto no Github deverá ficar dessa forma:
 
-![Projeto](https://github.com/user-attachments/assets/c9311452-dc8b-4f97-b608-ed8fe4d686d7)
+
+   ![Projeto](https://github.com/user-attachments/assets/c9311452-dc8b-4f97-b608-ed8fe4d686d7)
